@@ -33,6 +33,3 @@
 - 🧱 I love playing **Minecraft** — survival mode, of course
 - Hobbies: Swimming 🏊, Reading 📖, Exercises 🦾
 
----
-
-*"Without data, you're just another person with an opinion."*
