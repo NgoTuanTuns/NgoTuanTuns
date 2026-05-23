@@ -1,5 +1,6 @@
 ## Hi there 👋
 - I'm Tu, a Data Engineer in VietNam.
+- Data is my life! 🥀
 - I'm currently learning to become a data engineer 😎.
 - My main programing langquage is python and of course SQL.
 - The tech i'm currently using and learning is MSSQL, PySpark, Kafka, a little bit of cloud which is GCP(big query, dataproc, google cloud storage) and some useful tools which is docker, git.
