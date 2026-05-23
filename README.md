@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- I'm Tu, a Data Engineer in VietNam.
+- I'm currently learning to become a data engineer 😎.
+- My main programing langquage is python and of course SQL.
+- The tech i'm currently using and learning is MSSQL, PySpark, Kafka, a little bit of cloud which is GCP(big query, dataproc, google cloud storage) and some useful tools which is docker, git.
+- And also i have knowledge about Hadoop, Hive which i have learned when i was using dataproc 🧐
+- ⚡ Fun fact:
+  - I love playing minecraft.
+  - Hobbies: reading 📖, swimming 🏊, playing game 🎮.
 <!--
 **NgoTuanTuns/NgoTuanTuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
