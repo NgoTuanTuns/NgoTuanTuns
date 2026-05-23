@@ -1,24 +1,50 @@
-## Hi there 👋
-- I'm Tu, a Data Engineer in VietNam.
-- Data is my life! 🥀
-- I'm currently learning to become a data engineer 😎.
-- My main programing langquage is python and of course SQL.
-- The tech i'm currently using and learning is MSSQL, PySpark, Kafka, a little bit of cloud which is GCP(big query, dataproc, google cloud storage) and some useful tools which is docker, git.
-- And also i have knowledge about Hadoop, Hive which i have learned when i was using dataproc 🧐
-- ⚡ Fun fact:
-  - I love playing minecraft.
-  - Hobbies: reading 📖, swimming 🏊, playing game 🎮.
-<!--
-**NgoTuanTuns/NgoTuanTuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tu 👋
 
-Here are some ideas to get you started:
+> Data is my life! 🥀 — Data Engineer based in Vietnam 🇻🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Currently on my journey to become a full-fledged **Data Engineer**
+- 🐍 Main languages: **Python** and of course **SQL**
+- 🏗️ I love building pipelines, crunching big data, and automating everything I can
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white)
+
+**Databases & Processing**
+
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Cloud (GCP)**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=flat-square&logo=googlecloud&logoColor=black)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Also know:** Hadoop · Hive (from working with Dataproc 🧐)
+
+---
+
+## ⚡ Fun Facts
+
+- 🧱 I love playing **Minecraft** — survival mode, of course
+- Hobbies: Swimming 🏊, Reading 📖, Exercises 🦾
+
+---
+
+*"Without data, you're just another person with an opinion."*
