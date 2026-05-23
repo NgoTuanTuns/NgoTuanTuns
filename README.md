@@ -18,11 +18,9 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-**Cloud (GCP)**
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=flat-square&logo=googlecloud&logoColor=black)
-**Tools**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
