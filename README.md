@@ -22,7 +22,7 @@
 ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-0078D4?style=flat&logo=databricks&logoColor=white)
 ![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)]
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
