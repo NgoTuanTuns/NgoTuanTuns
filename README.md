@@ -18,9 +18,11 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=flat-square&logo=googlecloud&logoColor=black)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white")
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]
+![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-0078D4?style=flat&logo=databricks&logoColor=white)]
+![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)]
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)]
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
